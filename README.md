@@ -46,7 +46,7 @@ Le tableau de bord permet d’analyser :
 - Images du Projet :
 
   Page d'acceuil :
-  [url=https://postimg.cc/K4vq5zJH][img]https://i.postimg.cc/K4vq5zJH/Accueil.png[/img][/url]
+  https://postimg.cc/K4vq5zJH
   Demandes de prêt :
   
   Performance des agences :
