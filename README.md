@@ -45,7 +45,7 @@ Le tableau de bord permet d’analyser :
 - `README.md` : documentation du projet
 - Images du Projet --->
 
-  Page d'acceuil :
+  Page d'accueil :
   
   <img width="1942" height="1107" alt="Accueil" src="https://github.com/user-attachments/assets/0b0e803e-b6e8-4b63-acd1-c52af090f392" />
   
